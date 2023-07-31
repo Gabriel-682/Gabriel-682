@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Fernando Enrique 👋</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+web+developer..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+Stack+developer..."/>
 
 <h2 align="right">:man_technologist: ACERCA DE MÍ</h2>
 <section align="justify">
